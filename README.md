@@ -12,8 +12,6 @@ interpolation) **and** Aggressor's own top-level constructs (`on`, `alias`,
 The parser itself lives in the companion grammar, **`tree-sitter-aggressor`**
 (shipped alongside this folder).
 
-![what it highlights](#features)
-
 ---
 
 ## What you get
