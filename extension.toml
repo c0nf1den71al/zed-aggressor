@@ -1,0 +1,11 @@
+id = "aggressor"
+name = "Aggressor Script"
+description = "Syntax highlighting and language support for Cobalt Strike Aggressor Script (.cna), built on the Sleep language."
+version = "0.1.0"
+schema_version = 1
+authors = ["Jamie Pegg <github@jamiepegg.com>"]
+repository = "https://github.com/c0nf1den71al/zed-aggressor"
+
+[grammars.aggressor]
+repository = "https://github.com/c0nf1den71al/tree-sitter-aggressor"
+rev = "81b4e9686e9bbf774d063c08fb74a5dc5543eb52"
